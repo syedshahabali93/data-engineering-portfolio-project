@@ -60,3 +60,20 @@ Run the whole stack using a single command:
 
 ```bash
 docker-compose up --build
+```
+
+## Execution Results
+
+![kibana_analytics_visualization](./execution_results/kibana_analytics_visualization.png)
+&nbsp;
+![kibana_data_view](./execution_results/kibana_data_view.png)
+&nbsp;
+![docker_producer_logs](./execution_results/docker_producer_logs.png)
+&nbsp;
+![docker_consumer_logs](./execution_results/docker_consumer_logs.png)
+&nbsp;
+![setup_initiation](./execution_results/setup_initiation.png)
+&nbsp;
+![elastic_search_general_logs](./execution_results/elastic_search_general_logs.png)
+
+
